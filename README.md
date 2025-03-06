@@ -3,16 +3,7 @@
 ## Overview
 This repository contains five machine learning projects completed as part of the **CodSoft Data Science Internship**. Each project demonstrates data preprocessing, model training, evaluation, and prediction using Python.
 
-## Table of Contents
-1. [Titanic Survival Prediction](#titanic-survival-prediction)
-2. [Movie Rating Prediction](#movie-rating-prediction)
-3. [Iris Flower Classification](#iris-flower-classification)
-4. [Sales Prediction](#sales-prediction)
-5. [Credit Card Fraud Detection](#credit-card-fraud-detection)
-
----
-
-## 1. Titanic Survival Prediction
+## 1. Titanic Survival Prediction (TASK-1)
 **Objective:** Predict the survival of passengers on the Titanic using machine learning models.
 
 **Dataset:** Titanic dataset (available on Kaggle)
@@ -28,7 +19,7 @@ This repository contains five machine learning projects completed as part of the
 
 ---
 
-## 2. Movie Rating Prediction
+## 2. Movie Rating Prediction (TASK-2)
 **Objective:** Predict IMDb ratings of Indian movies based on various features.
 
 **Dataset:** IMDb Movies India dataset
@@ -44,7 +35,7 @@ This repository contains five machine learning projects completed as part of the
 
 ---
 
-## 3. Iris Flower Classification
+## 3. Iris Flower Classification (TASK-3)
 **Objective:** Classify iris flowers into three species based on sepal and petal measurements.
 
 **Dataset:** Iris dataset (built-in in `sklearn`)
@@ -60,7 +51,7 @@ This repository contains five machine learning projects completed as part of the
 
 ---
 
-## 4. Sales Prediction
+## 4. Sales Prediction (TASK-4)
 **Objective:** Predict sales revenue based on advertising budget using regression models.
 
 **Dataset:** Advertising dataset
@@ -76,7 +67,7 @@ This repository contains five machine learning projects completed as part of the
 
 ---
 
-## 5. Credit Card Fraud Detection
+## 5. Credit Card Fraud Detection (TASK-5)
 **Objective:** Detect fraudulent credit card transactions using machine learning models.
 
 **Dataset:** [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
